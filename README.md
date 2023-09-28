@@ -12,6 +12,8 @@ Repositório de Scripts Javascript para uso na plataforma Blip
 
 ## 🔗 Links Úteis
 
+* [Plugins e Extensões](https://help.blip.ai/hc/pt-br/sections/4403363546007-Plugins-e-Extens%C3%B5es) - Lista de Artigos de uso das extensões e Plugins do Blip
+
 ### 🧰 Extensões para o Chrome ( para uso com o Blip )
 * [Blip Addons](https://chrome.google.com/webstore/detail/blip-addons/niopbdedfbgmagppkckachanclmdomeg?hl=pt-br)
 * [Blip Builder Addictions](https://chrome.google.com/webstore/detail/blip-builder-addictions/nfdmafhaljeeonfglijopeoicnnpgleb?hl=pt-br)
