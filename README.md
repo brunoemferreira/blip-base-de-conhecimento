@@ -7,7 +7,8 @@ Repositório de Scripts Javascript para uso na plataforma Blip
 
 
 
-
+## 📚 TRADES
+* [TRADES](https://github.com/brunoemferreira/blip-scripts/tree/main/TRADES) - Conjunto de Boas práticas para desenvolvimento de contatos inteligentes
 
 
 ## 🔗 Links Úteis
