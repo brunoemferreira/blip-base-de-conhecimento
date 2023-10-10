@@ -1,7 +1,7 @@
 # 🤖 Scripts para Blip
 Repositório de Scripts Javascript para uso na plataforma Blip
 
-*[Scripts JavaScript](https://github.com/brunoemferreira/blip-base-de-conhecimento/tree/main/Scripts)
+* [Scripts JavaScript](https://github.com/brunoemferreira/blip-base-de-conhecimento/tree/main/Scripts)
 
 ## 📚 TRADES
 * [TRADES](https://github.com/brunoemferreira/blip-scripts/tree/main/TRADES) - Conjunto de Boas práticas para desenvolvimento de contatos inteligentes
