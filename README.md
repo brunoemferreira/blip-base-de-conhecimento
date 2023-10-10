@@ -1,12 +1,7 @@
 # 🤖 Scripts para Blip
 Repositório de Scripts Javascript para uso na plataforma Blip
 
-
-* [VerificaTipoDeCanal]() - Verifica se o canal que está sendo usado pelo usuário é o Blipchat ou WhatsApp.
-* [ValidaMenuSimOuNaoRetJSON]() - Valida Menu de Sim ou Não por Regex e retorna um JSON como input informado pelo usuário e a intenção que foi verificada através desse input 
-* [VerificaTemplateMessageType.js]() - 
-* [RedirectJson.js]() - 
-
+*[Scripts JavaScript](https://github.com/brunoemferreira/blip-base-de-conhecimento/tree/main/Scripts)
 
 ## 📚 TRADES
 * [TRADES](https://github.com/brunoemferreira/blip-scripts/tree/main/TRADES) - Conjunto de Boas práticas para desenvolvimento de contatos inteligentes
